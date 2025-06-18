@@ -1,0 +1,23 @@
+{
+  "openrouter": [
+    "sk-or-v1-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "sk-or-v1-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  ],
+  "gemini": [
+    "AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" 
+  ],
+  "currentIndex": {
+    "openrouter": 0,
+    "gemini": 0,
+    "gemini_flash": 0
+  },
+  "lastRotation": {
+    "openrouter": 1748754446927,
+    "gemini": 1748754450240,
+    "gemini_flash": 1748937906374
+  },
+  "gemini_flash": [
+    "AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+  ]
+}
